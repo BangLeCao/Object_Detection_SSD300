@@ -2,7 +2,7 @@
 SSD300:
 Single Shot Multibox Detector(with backbone VGG16) is implemented with Pytorch
 
-Dataset : Using Pascal Voc 2012 dataset
+Dataset : Using Pascal VOC 2012 dataset
 http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#voc2012vs2011
 
 Training: Training result from Pascal Voc 2012 dataset
