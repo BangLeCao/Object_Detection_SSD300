@@ -20,5 +20,6 @@ https://drive.google.com/file/d/1vypA89cxoe-cmbspWJXElwCOLXHW1dR5/view?usp=shari
 - Results:
 
 ![](https://github.com/BangLeCao/Object_Detection_SSD300/blob/master/results_01.jpg)
-
 ![](https://github.com/BangLeCao/Object_Detection_SSD300/blob/master/results_02.jpg)
+![](https://github.com/BangLeCao/Object_Detection_SSD300/blob/master/results_03.jpg)
+![](https://github.com/BangLeCao/Object_Detection_SSD300/blob/master/results_04.jpg)
