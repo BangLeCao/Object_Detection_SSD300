@@ -1,6 +1,6 @@
 # Object_Detection_SSD300
 SSD300:
-Single Shot Multibox Detector is implemented with Pytorch
+Single Shot Multibox Detector(with backbone VGG16) is implemented with Pytorch
 
 Dataset : Using Pascal Voc 2012 dataset
 http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#voc2012vs2011
