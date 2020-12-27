@@ -16,3 +16,9 @@ https://drive.google.com/file/d/1-8_yDvwbkmRRDpycOwXn6a02mItnj_gU/view?usp=shari
 https://drive.google.com/file/d/1vypA89cxoe-cmbspWJXElwCOLXHW1dR5/view?usp=sharing
 
 - Run inference.py file
+
+- Results:
+
+![](https://github.com/BangLeCao/Object_Detection_SSD300/blob/master/results_01.jpg)
+
+![](https://github.com/BangLeCao/Object_Detection_SSD300/blob/master/results_02.jpg)
