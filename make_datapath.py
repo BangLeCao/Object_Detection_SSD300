@@ -22,8 +22,7 @@ def make_datapath_list(rootpath):
     val_annotation_list = list()
 
     for line in open(val_id_names):
-        file_id = line.strip()
-        img_path = (image_path_template % file_id) #xóa ký tự xuống dòng, xóa space
+        file_id = line.strip() #xóa ký tự xuống dòng, xóa space
         img_path = (image_path_template % file_id) #đưa từng file_id vào %s trên template
         anno_path = (annotation_path_template % file_id) #đưa từng file_id vào %s trên template
 
